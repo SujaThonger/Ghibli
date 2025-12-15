@@ -7,9 +7,9 @@ import './Header.css';
 const Header = () => (
   <div className="app__header app__wrapper section__padding" id="home">
     <div className="app__wrapper_info">
-      <SubHeading title="Perfecting the art" />
-      <h1 className="app__header-h1">The World Of Ghibli</h1>
-      <p className="p__opensans" style={{ margin: '2rem 0' }}>"Whenever someone creates something with all of their heart, then that creation is given a soul." <br /> - The Baron</p>
+      <SubHeading title="The Art of Life" />
+      <h1 className="app__header-h1">Suja Sangtam</h1>
+      <p className="p__opensans" style={{ margin: '2rem 0' }}>"It is better to live your own destiny imperfectly than to live an imitation of somebody else's life with perfection." <br /> - Bhagavad Gita</p>
     </div>
 
     <div className="app__wrapper_img">

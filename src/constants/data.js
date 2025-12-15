@@ -2,90 +2,90 @@ import images from './images';
 
 const wines = [
   {
-    title: 'The Tale of the Princess Kaguya',
-    price: '2013',
-    tags: 'Directed by Isao Takahata',
-  },
-  {
-    title: 'Only Yesterday',
-    price: '1991',
-    tags: 'Directed by Isao Takahata',
-  },
-  {
-    title: "Kiki's Delivery Service",
-    price: '1989',
-    tags: 'Directed by Hayao Miyazaki',
-  },
-  {
-    title: 'Grave of the Fireflies',
-    price: '1988',
-    tags: 'Directed by Isao Takahata',
-  },
-  {
-    title: 'Spirited Away',
+    title: 'Born into this world',
     price: '2001',
-    tags: 'Directed by Hayao Miyazaki',
+    tags: 'Mon, Nagaland',
+  },
+  {
+    title: "Matriculation",
+    price: '2018',
+    tags: 'The Vineyard School, Kohima',
+  },
+  {
+    title: 'Higher Secondary',
+    price: '2020',
+    tags: 'Mezhur Higher Secondary School, Kohima',
+  },
+  {
+    title: 'Intern at Greensort',
+    price: '2025',
+    tags: 'Chennai, Tamil Nadu',
+  },
+  {
+    title: 'B.Tech (CSE)',
+    price: '2025',
+    tags: 'Vel Tech University, Chennai',
   },
 ];
 
 const cocktails = [
   {
-    title: 'The Boy and the Heron',
-    price: '2023',
-    tags: 'Directed by Hayao Miyazaki',
+    title: 'Celebrated first birthday',
+    price: '2002',
+    tags: '',
   },
   {
-    title: "The Secret World of Arrietty",
-    price: '2010',
-    tags: 'Directed by Hiromasa Yonebayashi,Gary Rydstrom',
+    title: "Moved to Kohima",
+    price: '2003',
+    tags: '',
   },
   {
-    title: 'Princess Mononoke',
-    price: '1997',
-    tags: 'Directed by Hayao Miyazaki',
+    title: "Father's Death",
+    price: '2007',
+    tags: '',
   },
   {
-    title: 'My Neighbour Totoro',
-    price: '1988',
-    tags: 'Directed by Hayao Miyazaki',
+    title: 'Baptism',
+    price: '2019',
+    tags: '',
   },
   {
-    title: 'When Marnie Was There',
-    price: '2014',
-    tags: 'Directed by Hiromasa Yonebashi',
+    title: 'Moved to Delhi',
+    price: '2025',
+    tags: '',
   },
 ];
 
 const awards = [
   {
     imgUrl: images.award01,
-    title: 'Academy Award for Best Animated Feature',
-    subtitle: 'Spirited Away(2001)',
+    title: 'Favourite Movie',
+    subtitle: 'Your name(2016)',
   },
   {
     imgUrl: images.award01,
-    title: 'Academy Award for Best Animated Feature',
-    subtitle: 'The Boy and the Heron(2023)',
+    title: 'Favourite Band',
+    subtitle: 'Artic Monkeys',
   },
   {
     imgUrl: images.award01,
-    title: 'Animation of the year',
-    subtitle: "Howl's Moving Castle(2004)",
+    title: 'Hobby',
+    subtitle: "Creative activities like music,art,poetry",
   },
   {
     imgUrl: images.award01,
-    title: 'Animation of the year',
-    subtitle: 'Ponyo(2009)',
+    title: 'Favourite Football Club',
+    subtitle: 'Manchester United',
   },
   {
     imgUrl: images.award01,
-    title: 'Japan Academy Prize for Picture  of the Year',
-    subtitle: 'Princess Mononoke(1997)',
+    title: 'Something I want to do before I die',
+    subtitle: 'Visit all the seven wonders of the world',
   },
   {
     imgUrl: images.award01,
-    title: 'Academy Honorary Award',
-    subtitle: 'Hayao Miyazaki(2014)',
+    title: 'Favourite Animal',
+    subtitle: 'Otters',
   },
 ];
 

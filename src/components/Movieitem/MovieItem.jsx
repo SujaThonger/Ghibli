@@ -6,7 +6,7 @@ const MenuItem = ({ title, price, tags }) => (
   <div className="app__menuitem">
     <div className="app__menuitem-head">
       <div className="app__menuitem-name">
-        <p className="p__cormorant" style={{ color: '#DCCA87' }}>{title}</p>
+        <p className="p__cormorant" style={{ color: '#2E4A5A' }}>{title}</p>
       </div>
       <div className="app__menuitem-dash" />
       <div className="app__menuitem-price">

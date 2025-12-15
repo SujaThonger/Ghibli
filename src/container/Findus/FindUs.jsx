@@ -7,13 +7,12 @@ const FindUs = () => (
   <div className="app__bg app__wrapper section__padding" id="contact">
     <div className="app__wrapper_info">
       <SubHeading title="Contact" />
-      <h1 className="headtext__cormorant" style={{ marginBottom: '3rem' }}>SushiTech</h1>
+      <h1 className="headtext__cormorant" style={{ marginBottom: '3rem' }}>Suja Thonger</h1>
       <div className="app__wrapper-content">
-        <p className="p__opensans">Disclaimer: This is a fan page created by SushiTech. This is not the official website of Ghibli Studios. I do not own any of the pictures or images used in this website. </p>
-        <p className="p__cormorant" style={{ color: '#DCCA87', margin: '2rem 0' }}>Email</p>
+        <p className="p__opensans">Thank you for visiting and giving me your time. I coded this website on my own using React. If you liked it and want a custom made website of your own, you can reach me through my email or through my socials.</p>
+        <p className="p__cormorant" style={{ color: '#2E4A5A', margin: '2rem 0' }}>Email</p>
         <p className="p__opensans">sujalilong@gmail.com</p>
       </div>
-      <button type="button" className="custom__button" style={{ marginTop: '2rem' }}>Visit Us</button>
     </div>
 
     <div className="app__wrapper_img">

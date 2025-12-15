@@ -9,8 +9,8 @@
 }
 
 .app__footerOverlay-black {
-    height: 50%;
-    background: var(--color-black);
+    height: 70%;
+    background: var(--color-ghibli);
 }
 
 .app__footerOverlay-img {

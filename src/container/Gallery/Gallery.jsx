@@ -21,16 +21,16 @@ const Gallery = () => {
   return (
     <div className="app__gallery flex__center">
       <div className="app__gallery-content">
-        <SubHeading title="Artwork" />
+        <SubHeading title="Fragments of memories" />
         <h1 className="headtext__cormorant">Photo Gallery</h1>
         <p className="p__opensans" style={{ color: '#AAAAAA', marginTop: '2rem' }}>"Many of the things that seem impossible now will become realities tomorrow."<br/> — Howl's Moving Castle, 2004</p>
-        <a href='https://www.instagram.com/ghibliusa?igsh=eWdmN3VmemloNml5'><button type="button" className="custom__button">View More</button></a>
+        <a href='https://www.instagram.com/suja_thonger?igsh=MWg1aWtrdWV6aDRzbA=='><button type="button" className="custom__button">View More</button></a>
       </div>
       <div className="app__gallery-images">
         <div className="app__gallery-images_container" ref={scrollRef}>
 
           {[images.gallery01, images.gallery02, images.gallery03, images.gallery04, images.gallery05, images.gallery06, images.gallery07,].map((image, index) => (
-              <a href='https://www.instagram.com/ghibliusa?igsh=eWdmN3VmemloNml5'>
+              <a href='https://www.instagram.com/suja_thonger?igsh=MWg1aWtrdWV6aDRzbA=='>
             <div className="app__gallery-images_card flex__center" key={`gallery_image-${index + 1}`}>
               <img src={image} alt="gallery_image" />
               <BsInstagram className="gallery__image-icon" />

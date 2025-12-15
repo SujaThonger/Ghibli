@@ -5,16 +5,14 @@ import './AboutUs.css';
 
 const AboutUs = () => (
   <div className="app__aboutus app__bg flex__center section__padding" id="about">
-    <div className="app__aboutus-overlay flex__center">
-      <img src={images.G} alt="G_overlay" />
-    </div>
+    
 
     <div className="app__aboutus-content flex__center">
       <div className="app__aboutus-content_about">
-        <h1 className="headtext__cormorant">About Ghibli</h1>
+        <h1 className="headtext__cormorant">About</h1>
         <img src={images.spoon} alt="about_spoon" className="spoon__img" />
-        <p className="p__opensans">Studio Ghibli's films often explore themes of nature, technology, friendship, and the struggles of growing up, while also highlighting the importance of environmentalism and pacifism. The studio has a distinct art style and a reputation for meticulously detailed animation, often creating rich, immersive landscapes and complex characters.</p>
-       <a href='https://en.wikipedia.org/wiki/Studio_Ghibli'><button type="button" className="custom__button">Know More</button></a>
+        <p className="p__opensans">From the hills of Nagaland, hails a wandering soul looking to find his own place in the world. To fulfill his destiny and finish the race as a faithful servant of the Lord.</p>
+       <a href=''><button type="button" className="custom__button">Know More</button></a>
       </div>
 
       <div className="app__aboutus-content_knife flex__center">
@@ -22,10 +20,10 @@ const AboutUs = () => (
       </div>
 
       <div className="app__aboutus-content_history">
-        <h1 className="headtext__cormorant">Ghibli History</h1>
+        <h1 className="headtext__cormorant">Intro</h1>
         <img src={images.spoon} alt="about_spoon" className="spoon__img" />
-        <p className="p__opensans">Studio Ghibli is a renowned Japanese animation film studio founded in 1985 by directors Hayao Miyazaki and Isao Takahata, and producer Toshio Suzuki. The studio gained international acclaim with films such as "My Neighbor Totoro" (1988), "Spirited Away" (2001), which won an Academy Award for Best Animated Feature, "Princess Mononoke" (1997), and "Howl's Moving Castle" (2004).</p>
-        <a href='https://en.wikipedia.org/wiki/Studio_Ghibli'><button type="button" className="custom__button">Know More</button></a>
+        <p className="p__opensans">Hello, dear reader. If you are here, then this moment exists. I created this space to leave a trace of myself in a world that moves relentlessly forward. It may be lost, unread, forgotten—but does that diminish its meaning? I think not. Existence does not require an audience to be real. Even so, I felt compelled to leave something tangible behind, a quiet proof of presence.</p>
+        <a href=''><button type="button" className="custom__button">Know More</button></a>
       </div>
     </div>
   </div>
