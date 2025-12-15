@@ -13,15 +13,15 @@
     background-position: center;
     background-size: cover;
     background-repeat: repeat;
-    background-attachment: fixed;
+    background-attachment: scroll;
+    overflow: visible;
   }
   
   .app__wrapper {
     display: flex;
     justify-content: space-between;
     align-items: center;
-  
-    min-height: 100vh;
+    min-height: 100svh;
   }
   
   .app__wrapper_info {
