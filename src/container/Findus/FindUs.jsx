@@ -7,9 +7,9 @@ const FindUs = () => (
   <div className="app__bg app__wrapper section__padding" id="contact">
     <div className="app__wrapper_info">
       <SubHeading title="Contact" />
-      <h1 className="headtext__cormorant" style={{ marginBottom: '3rem' }}>Suja Thonger</h1>
+      <h1 className="headtext__cormorant" style={{ marginBottom: '3rem' }}>Suja Sangtam</h1>
       <div className="app__wrapper-content">
-        <p className="p__opensans">Thank you for visiting and giving me your time. I coded this website on my own using React. If you liked it and want a custom made website of your own, you can reach me through my email or through my socials.</p>
+        <p className="p__opensans">Thanks for stopping by! This website was built entirely by me using React. If you liked what you see and want your own custom website, reach out to me through email or my social media — let’s create something amazing together!</p>
         <p className="p__cormorant" style={{ color: '#2E4A5A', margin: '2rem 0' }}>Email</p>
         <p className="p__opensans">sujalilong@gmail.com</p>
       </div>

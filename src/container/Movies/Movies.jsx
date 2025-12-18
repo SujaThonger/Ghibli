@@ -8,7 +8,7 @@ const SpecialMenu = () => (
   <div className="app__specialMenu flex__center section__padding" id="movies">
     <div className="app__specialMenu-title">
       <SubHeading title="Life goes on" />
-      <h1 className="headtext__cormorant">Timeline</h1>
+      <h1 className="headtext__cormorant">Projects</h1>
     </div>
 
     <div className="app__specialMenu-menu">
@@ -28,7 +28,7 @@ const SpecialMenu = () => (
     </div>
 
     <div style={{ marginTop: 15 }}>
-      <a href=''><button type="button" className="custom__button">View More</button></a>
+      <a href='https://greensort.in/'><button type="button" className="custom__button">View</button></a>
     </div>
   </div>
 );

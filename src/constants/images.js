@@ -14,7 +14,7 @@ import overlaybg from '../assets/overlaybg.png';
 import spoon from '../assets/catbus.png';
 import welcome from '../assets/suja.jpeg';
 import findus from '../assets/neko.png';
-import laurels from '../assets/sujaa.jpeg';
+import laurels from '../assets/gwelcome.png';
 import award01 from '../assets/award01.png';
 import award02 from '../assets/award02.png';
 import award03 from '../assets/award03.png';

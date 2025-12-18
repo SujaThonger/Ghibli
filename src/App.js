@@ -11,7 +11,7 @@ const App = () => (
     <AboutUs />
     <Movies />
     <Founder />
-    <Intro />
+    {/* <Intro /> */}
     <Laurels />
     <Gallery />
     <FindUs />

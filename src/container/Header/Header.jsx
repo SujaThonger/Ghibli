@@ -9,7 +9,7 @@ const Header = () => (
     <div className="app__wrapper_info">
       <SubHeading title="The Art of Life" />
       <h1 className="app__header-h1">Suja Sangtam</h1>
-      <p className="p__opensans" style={{ margin: '2rem 0' }}>"It is better to live your own destiny imperfectly than to live an imitation of somebody else's life with perfection." <br /> - Bhagavad Gita</p>
+      <p className="p__opensans" style={{ margin: '2rem 0' }}>Welcome to this custom made website which can be yours and customized in any way you want.<br/><br/>"It is better to live your own destiny imperfectly than to live an imitation of somebody else's life with perfection." <br /> - Bhagavad Gita</p>
     </div>
 
     <div className="app__wrapper_img">
