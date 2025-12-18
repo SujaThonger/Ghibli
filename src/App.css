@@ -12,7 +12,7 @@
     background: url('./assets/claude.jpeg');
     background-position: center;
     background-size: cover;
-    background-repeat: repeat;
+    /* background-repeat: repeat; */
     background-attachment: scroll;
     overflow: visible;
   }

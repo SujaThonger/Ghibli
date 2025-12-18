@@ -34,7 +34,9 @@
 }
 
 .app__aboutus-content_knife img {
-    height: 700px;
+    max-width: 100%;
+    height: auto;
+    display: block;
 }
 
 .app__aboutus-content_history {
